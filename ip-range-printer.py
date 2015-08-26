@@ -2,7 +2,7 @@
 # Made By GnikLlort 
 # Tool that prints out the entire ip range
 # Good For setting up scan lists
-# python iprange.py >> filename.txt
+# python ip-range-printer.py >> filename.txt
 
 a = 1 
 b = 1
